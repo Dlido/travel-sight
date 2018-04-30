@@ -1,0 +1,28 @@
+{
+  "name": "travel-sight",
+  "version": "1.0.0",
+  "description": "a demo travel site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dlido/travel-sight.git"
+  },
+  "keywords": [
+    "travel",
+    "sight",
+    "site"
+  ],
+  "author": "D. Lido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dlido/travel-sight/issues"
+  },
+  "homepage": "https://github.com/Dlido/travel-sight#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
